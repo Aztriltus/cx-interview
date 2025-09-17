@@ -1,0 +1,18 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": [
+    "source.addMissingImports",
+    "source.fixAll",
+    "source.organizeImports"
+  ],
+  // Show in vscode "Problems" tab when there are errors
+  "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+  // Use absolute import for typescript files
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  // Exclude imports from these packages
+  "typescript.preferences.autoImportSpecifierExcludeRegexes": [
+    "next/router",
+    "next/dist",
+    "^lucide-react/dist/lucide-react.suffixed$"
+  ]
+}
