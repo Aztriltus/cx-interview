@@ -53,7 +53,7 @@ What has been implemented:
 - Use the Figma file to guide your implementation
 - Consider all breakpoints (has to be flexible and responsive for ANY screen size)
 - Use FE best practices and patterns
-- Feel free to install any libraries you think can help you impelement the task faster or better while maintaining the code quality
+- Feel free to install any libraries you think can help you implement the task faster or better while maintaining the code quality
 - Feel free to re-organise the codebase to match how a medium scale app would structure its FE codebase. Provided structure are for the purpose of this task only.
 - This task should take 20 minutes to complete
 
