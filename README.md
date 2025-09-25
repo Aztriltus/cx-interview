@@ -7,6 +7,7 @@ What this repository contains:
 1. Lucide icons are installed for your convenience
 1. Other installed libraries include `tailwind-merge`, `tailwind-variants`, `clsx`, `cva`
 1. Font `DM Sans` from Google Fonts is installed for your convenience
+1. API route `src/app/api/auctions/route.ts` is implemented for your convenience to fetch the list of active auctions
 
 What has been implemented:
 
